@@ -71,6 +71,14 @@ Go to **Settings > [your name] > iCloud** on your device and toggle FlowVision o
 **A level seems unsolvable.**
 Every level has a verified solution. Try using the solution playback feature to see the correct path, or undo your strokes and try a different approach.
 
+## Report an Issue
+
+The fastest way to report a bug is to open a GitHub issue and fill in the form:
+
+**https://github.com/Meshy-SC/FlowVision/issues/new**
+
+You can also browse existing reports on the [GitHub Issues page](https://github.com/Meshy-SC/FlowVision/issues).
+
 ## Contact Us
 
 If you need further assistance or have feedback, we would love to hear from you.
